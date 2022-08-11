@@ -1,4 +1,5 @@
 # ranking-model
+When we want to google some fintech related companies, we will probably get results like the picture below.
 <img width="958" alt="123" src="https://user-images.githubusercontent.com/95459565/184057452-69cf8116-bf48-4bce-af64-d32753a6b3e6.png">
 <img width="599" alt="124" src="https://user-images.githubusercontent.com/95459565/182780444-838dfb19-9fa1-478c-a76e-a10ad40c1457.png">
 <img width="601" alt="123" src="https://user-images.githubusercontent.com/95459565/182779930-11f2fc3b-85a1-41a5-9310-ee2c0473d101.png">
